@@ -35,14 +35,10 @@
 
 # Nav Bar
 
-* With your partner, see if you can find information on how to add a nav bar.
-* Try it!
+With your partner, see if you can:
 
----
-
-# Cards & Footer
-
-* Add three cards to your layout.
+* Add a nav bar
+* Add three `cards`
 * Add a footer
 * See if you can get the cards to sit next to each other (hint, look at the materialize documentation for their Grid system)
 
